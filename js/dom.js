@@ -20,5 +20,13 @@ playersTitle.innerText = 'Lords players'
 
 const heros = document.getElementsByClassName('hero');
 for(const hero of heros){
-    console.log(hero.innerText)
+    // console.log(hero.innerText)
+}
+
+const firstNode = document.querySelector('.players-container li');
+console.log(firstNode)
+
+const nodeList = document.querySelectorAll('.players-container li');
+for(const list of nodeList){
+    console.log(list)
 }
