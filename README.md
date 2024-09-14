@@ -1,0 +1,1 @@
+nodeList vs HTMLCollection
