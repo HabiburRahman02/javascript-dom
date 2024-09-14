@@ -3,3 +3,7 @@ h1{
     color: rebeccapurple;
     text-transform: uppercase;
 }
+
+.font-large{
+    font-size: 30px;
+}
